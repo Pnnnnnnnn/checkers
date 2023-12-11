@@ -10,4 +10,4 @@ python main.py
 ```
 
 ## Acknowledgments
-This project is modified from Tech with Tim's tutorial on YouTube. Visit Tech with [Tim's YouTube Channel](https://www.youtube.com/@TechWithTim) for more insightful programming tutorials.
+This project is modified from Tech with Tim's tutorial on YouTube. Visit [Tech with Tim's YouTube Channel](https://www.youtube.com/@TechWithTim) for more insightful programming tutorials.
